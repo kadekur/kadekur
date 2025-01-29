@@ -59,4 +59,4 @@ r/Powershell helped me find the command to return to the user's home directory.
 
 8. Used Google Gemini to find the command to set the text of a text file. Prompt: how do i set text of a txt file in powershell
 
-11 - Used Google Gemini to find the syntax of the move command. It helped me use the file path instead of the file name in a directory already being viewed. Prompt: how do I move an item into a different directory?
+11. Used Google Gemini to find the syntax of the move command. It helped me use the file path instead of the file name in a directory already being viewed. Prompt: how do I move an item into a different directory?
