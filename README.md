@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Sean Stevens, a Computer Engineering student studying at Wright State University.
+I'm Sean Stevens, a Computer Engineering student studying at Wright State University.
 
 When not studying, I enjoy rock climbing 🧗🏻, game development 🧗🏻, and traveling 🛫.
 
