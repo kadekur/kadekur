@@ -53,11 +53,11 @@ You can do it!
 
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
 
-5. https://www.reddit.com/r/PowerShell/comments/a9clu7/how_do_you_create_a_home_directory_or_get_back_to/
+5 - https://www.reddit.com/r/PowerShell/comments/a9clu7/how_do_you_create_a_home_directory_or_get_back_to/
 
 r/Powershell helped me find the command to return to the user's home directory.
 
-8. Used Google Gemini to find the command to set the text of a text file. Prompt: how do i set text of a txt file in powershell
+8 - Used Google Gemini to find the command to set the text of a text file. Prompt: how do i set text of a txt file in powershell
     
 
-11. Used Google Gemini to find the syntax of the move command. It helped me use the file path instead of the file name in a directory already being viewed. Prompt: how do I move an item into a different directory?
+11 - Used Google Gemini to find the syntax of the move command. It helped me use the file path instead of the file name in a directory already being viewed. Prompt: how do I move an item into a different directory?
