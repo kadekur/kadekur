@@ -2,7 +2,7 @@
 
 My name is Sean Stevens, a Computer Engineering student studying at Wright State University.
 
-When not studying, I enjoy rock climbing, game development, and traveling.
+When not studying, I enjoy rock climbing 🧗🏻, game development 🧗🏻, and traveling 🛫.
 
 ![IMG_5101](https://github.com/user-attachments/assets/d4921a0f-2028-40df-bed2-02204a678b57)
 
