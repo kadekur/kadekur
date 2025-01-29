@@ -12,4 +12,4 @@ When not studying, I enjoy rock climbing 🧗🏻, game development 🧗🏻, an
 * Learning Assembly Language
     * Learning Assembly in CEG-3310 at WSU.
 * Roblox Project
-    * Continuing development of a multiplayer game based on the Roblox platform with a small team.
+    * Continuing development of a multiplayer game based on the Roblox platform with a small team since 2022.
